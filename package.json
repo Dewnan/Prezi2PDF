@@ -1,0 +1,24 @@
+{
+  "name": "Prezi2PDF",
+  "description": "Prezi to PDF allows users to quickly convert Prezi presentations into a PDF file. The extension iterates through the slides in a Prezi presentation, takes screenshots of each slide, and combines them into a single downloadable PDF.",
+  "private": true,
+  "version": "1.0.2",
+  "type": "module",
+  "scripts": {
+    "dev": "wxt",
+    "dev:firefox": "wxt -b firefox",
+    "build": "wxt build",
+    "build:firefox": "wxt build -b firefox",
+    "zip": "wxt zip",
+    "zip:firefox": "wxt zip -b firefox",
+    "compile": "tsc --noEmit",
+    "postinstall": "wxt prepare"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3",
+    "wxt": "^0.20.18"
+  },
+  "dependencies": {
+    "jspdf": "^4.2.0"
+  }
+}
