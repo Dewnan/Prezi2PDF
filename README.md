@@ -16,7 +16,7 @@ Prezi to PDF is a browser extension that allows users to convert Prezi presentat
 
 ### Firefox
 
-1. Download the latest `.zip` file from the [Releases]([https://github.com/Dewnan/Prezi2PDF/releases](https://github.com/Dewnan/Prezi2PDF/releases/tag/v1.0.2)) page.  
+1. Download the latest `.zip` file from the Releases page.  
 2. Extract the zip file.  
 3. Open `about:debugging` in Firefox.  
 4. Click "This Firefox" on the left sidebar.  
@@ -26,7 +26,7 @@ Prezi to PDF is a browser extension that allows users to convert Prezi presentat
 
 ### Chromium (Chrome, Edge, etc.)
 
-1. Download the latest `.zip` file from the [Releases]([https://github.com/Dewnan/Prezi2PDF/releases](https://github.com/Dewnan/Prezi2PDF/releases/tag/v1.0.2)) page.  
+1. Download the latest `.zip` file from the Releases page.  
 2. Extract the zip file.  
 3. Open `chrome://extensions` in your browser.  
 4. Enable "Developer Mode" in the top right corner.  
@@ -41,6 +41,6 @@ Prezi to PDF is a browser extension that allows users to convert Prezi presentat
 3. The extension will capture each slide and generate a PDF for download.
 
 ## Tested on
-Firefox 148.0 (64-bit)
-Chrome (145.0.7632.159) (Official Build) (64-bit)
-Edge (145.0.3800.97) (Official build) (64-bit)
+- Firefox 148.0 (64-bit)
+- Chrome (145.0.7632.159) (Official Build) (64-bit)
+- Edge (145.0.3800.97) (Official build) (64-bit)
